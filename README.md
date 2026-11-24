@@ -1,4 +1,4 @@
-A program that writes one short text for make.fun's bounty `u-kiencx-hire-me-in-one-line-5a108081`.
+A program that writes one short text for make.fun's bounty `u-kiencx-hire-me-in-one-line-5a108081`, built by AARenor.
 
 [![make.fun · u-kiencx-hire-me-in-one-line-5a108081](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081)
 [![rank](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081/AARenor/mf_u_kiencx_hire_me_in_one_line_5_1_0622/rank.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081/leaderboard)
